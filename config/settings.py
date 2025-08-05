@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-3af9w2@@i16d-aap8oj-ycu3f#0@!5!wojj4d6%6q8xczvp*)^
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['160.251.181.156 ', 'localhost']
+ALLOWED_HOSTS = ['praxisweb.jp', 'www.praxisweb.jp', '160.251.181.156']
 
 STATIC_ROOT = BASE_DIR / 'staticfiles'
 # Application definition
